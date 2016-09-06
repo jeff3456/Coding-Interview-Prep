@@ -12,8 +12,7 @@ public class Count2DIslands {
                     {1,0,1}};
     System.out.println(countIslands2D(test));
   }
-  
-  
+
   // Iterate through the array sequentially and perform a BFS every time oyu
   public static int countIslands2D(int[][] array){
     return countIslands2D(array, 1, 0);
