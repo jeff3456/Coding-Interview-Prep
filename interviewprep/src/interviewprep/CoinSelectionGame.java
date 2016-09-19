@@ -46,5 +46,4 @@ public class CoinSelectionGame {
                     coins[j] + Math.min(maxCoinSumHelper(i+1, j-1),
                                         maxCoinSumHelper(i, j-2)));
   }
-
 }
