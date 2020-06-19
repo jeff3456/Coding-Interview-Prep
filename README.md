@@ -8,4 +8,4 @@ The questions will be found here:
 * http://www.dsalgo.com/2013/02/index.php.html
 * //www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850/ref=dp_ob_title_bk
 
-Most solutions will be coded in java.
+Now practicing in python. Java was a little verbose.
